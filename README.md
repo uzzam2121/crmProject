@@ -116,9 +116,14 @@ Define the necessary environment variables for both the frontend and backend. Sa
 
 ---
 
-Feel free to explore, test, and customize GrowCRM to meet the specific needs of your real estate agency. If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request. 
+## Contributing
+
+Feel free to explore, test, and customize GrowCRM to meet the specific needs of your real estate agency. If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
+
+## License
+
+This project is open source and available under the [MIT License](LICENSE).
 
 Happy managing!
-
 
 
